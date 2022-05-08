@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 11480,
+  "port": 8888,
+  "root_dir": "C:\\Users\\33749\\OneDrive\\Bureau\\test",
+  "secure": false,
+  "sock": "",
+  "token": "77ae022d728e3816df5fceeb24f55911147a012d93a78f2a",
+  "url": "http://localhost:8888/",
+  "version": "1.9.0"
+}

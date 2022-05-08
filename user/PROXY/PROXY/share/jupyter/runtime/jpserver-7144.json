@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 7144,
+  "port": 8888,
+  "root_dir": "C:\\Users\\33749\\OneDrive\\Bureau\\etude_recapitulatif\\etude_recapitulatif",
+  "secure": false,
+  "sock": "",
+  "token": "ae3365c6284935ded87474ab8735201da0447d9a143f5a1e",
+  "url": "http://localhost:8888/",
+  "version": "1.9.0"
+}
